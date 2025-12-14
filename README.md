@@ -1,6 +1,18 @@
 # セットアップ 🚀
 
-## ① 環境変数ファイル（.env）の作成
+## ① リポジトリのクローン
+
+```
+git clone git@github.com:RareTECH-Mentor/hackathon-beginners-sample-sns.git
+```
+
+ディレクトリに移動します。
+
+```
+cd hackathon-beginners-sample-sns
+```
+
+## ② 環境変数ファイル（.env）の作成
 
 - Mac、Windows(PowerShell、Git Bash)の場合
 
@@ -14,7 +26,7 @@ cp .env.sample .env
 copy .env.example .env
 ```
 
-## ②Docker コンテナのビルドと起動
+## ③Docker コンテナのビルドと起動
 
 ### コンテナのビルド
 
@@ -52,7 +64,7 @@ http://localhost:55000/
 
 ログイン画面が表示されれば成功です。
 
-## ③MySQL の操作方法
+## ④MySQL の操作方法
 
 ### MySQL コンテナへの接続
 

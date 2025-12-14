@@ -2,6 +2,8 @@
 
 ## ① リポジトリのクローン
 
+リポジトリをクローンします。
+
 ```
 git clone git@github.com:RareTECH-Mentor/hackathon-beginners-sample-sns.git
 ```

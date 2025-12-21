@@ -19,7 +19,7 @@ cd hackathon-beginners-sample-sns
 - Mac、Windows(PowerShell、Git Bash)の場合
 
 ```
-cp .env.sample .env
+cp .env.example .env
 ```
 
 - Windows(コマンドプロンプト)の場合
